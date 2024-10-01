@@ -1,0 +1,2 @@
+
+ we are appending new line in example1.txt file 
