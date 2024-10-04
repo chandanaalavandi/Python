@@ -1,0 +1,18 @@
+Python Modules..
+toolbox = contains pre-written code for specific tasks.
+fuctions - reusable pieces of code.
+variables = syore data for later use.
+classes = Templates for creating objects.
+Example:
+square Root = calculate square root of numbers.
+Trigonmetry = (sin,cos,tan) Logarithm.
+
+
+Python libraries
+collectio = multiple related modules grouped together
+Domain-specific = 
+
+Importing modules
+step-1 = use 'import' keyword
+step-2 = specify module name
+step-3 = access function using dot notation
