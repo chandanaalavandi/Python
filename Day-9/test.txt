@@ -1,0 +1,29 @@
+Exception Handling in Programming
+Exception : 
+    Normal Flow - Program executes as expected.
+    Exception Occurs - Unexpected event disrupts normal Flow.
+    Handling - 
+
+Real-World Analogy
+    Driving - cow on the road is Unexpected.
+    Programming - Exception is unexpected event.
+
+
+[1]ZeroDivision 
+[2]ValueError
+[3]TypeError
+[4]IndexError
+
+#------------------------------------------------------------------------------------------------------#
+
+DataBases
+    types of DataBases
+        mYsql = Relational database storing data in tables.
+        MongoDB - NoSQL with flexible document structure.
+    
+
+MySQL Table Example
+        S.No    Name    Sem    
+        01      ABC     6
+        02      MNO     8
+        04      XYZ     4 
